@@ -3,8 +3,6 @@ description: >-
   This is a reference site for learning Irish!
 baseurl: "/learning-irish"
 url: "https://codylewis.github.io/"
-author:
-  name: Cody Lewis
 
 # Build settings
 remote_theme: jekyll/minima
@@ -15,10 +13,6 @@ minima:
   skin: auto
   show_excerpts: false
   hide_site_feed_link: true
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/codylewis"
 
 collections:
   articles:
