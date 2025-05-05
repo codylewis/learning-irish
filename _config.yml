@@ -1,15 +1,24 @@
 title: Learning Irish
 description: >-
-  This is meant to be a reference site for learning Irish.
+  This is meant to be a reference site for learning Irish!
 baseurl: "/learning-irish"
 url: "https://codylewis.github.io/"
-github_username:  codylewis
-author: Cody Lewis
+author:
+  name: Cody Lewis
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
+  show_excerpts: false
+  hide_site_feed_link: true
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/codylewis"
 
 collections:
   articles:
