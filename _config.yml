@@ -3,6 +3,7 @@ description: >-
   This is a reference site for learning Irish!
 baseurl: "/learning-irish"
 url: "https://codylewis.github.io/"
+google_analytics: G-NSHJHZX3K0
 
 # Build settings
 remote_theme: jekyll/minima
