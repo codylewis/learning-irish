@@ -1,40 +1,38 @@
 ---
 layout: post
-title:  "Verb Particles By Tense"
+title: "Verb Particles By Tense"
 ---
 
 ## Past Tense
 
-| | Particle | Changes | Examples |
-|-|----------|---------|----------|
-| Negative | Níor | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Níor <u>bh</u>uail tú léi? *(You didn't meet her)*, Níor ól sí é? *(She didn't drink it)* |
-| Question | Ar | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Ar <u>bh</u>uail tú léi? *(Did you meet her?)*, Ar ól sí é? *(Did he drink it?)* |
-| Negative Question | Nár | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Nár <u>bh</u>uail sí liom? *(Didn't she meet with me?)*, Nár ól sí é? *(Didn't he drink it?)* |
-
-
+|                   | Particle | Changes                                                                     | Examples                                                                                      |
+| ----------------- | -------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Negative          | Níor     | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Níor <u>bh</u>uail tú léi? _(You didn't meet her)_, Níor ól sí é? _(She didn't drink it)_     |
+| Question          | Ar       | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Ar <u>bh</u>uail tú léi? _(Did you meet her?)_, Ar ól sí é? _(Did he drink it?)_              |
+| Negative Question | Nár      | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Nár <u>bh</u>uail sí liom? _(Didn't she meet with me?)_, Nár ól sí é? _(Didn't he drink it?)_ |
 
 ## Present, Future, Imperfect, and Conditional Tenses
 
-| | Particle | Change(s) | Example(s) | Notes |
-|-|-|-|-|
-| Negative | Ní | lenition[^1] | Ní <u>th</u>uigeann sé *(He doesn't understand)* | Verbs starting with d' drop this |
-| Question | An | eclipsis | An <u>mb</u>uafaidh sí an rás? *(Will she win the race?)* | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
-| Negative Question | Nach | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? *(Aren't you working?)* | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
+|                   | Particle | Change(s)                    | Example(s)                                                | Notes                                                                                                              |
+| ----------------- | -------- | ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Negative          | Ní       | lenition[^1]                 | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with d' drop this                                                                                   |
+| Question          | An       | eclipsis                     | An <u>mb</u>uafaidh sí an rás? _(Will she win the race?)_ | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
+| Negative Question | Nach     | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? _(Aren't you working?)_   | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 
 ## Imperative (Commands)
 
-| | Particle | Change | Example |
-|-|-|-|-|
-| Negative | Ná | h- prefix before vowels | Ná <u>h</u>ól é *(Don't drink it) |
+|          | Particle | Change                  | Example                            |
+| -------- | -------- | ----------------------- | ---------------------------------- |
+| Negative | Ná       | h- prefix before vowels | Ná <u>h</u>ól é \*(Don't drink it) |
 
 ### Sources
 
 - [Conjugating Regular Irish Verb](https://gaeilge.org/verbs/Verbs.pdf)
-- [*Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition*
-by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
+- [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
+  by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
 
 ---
 
-[^d]: The affirmative of ol *(drink)* and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D’</u>ól sé é *(He drank it)*, while the negative, Níor ól sé é *(He didn’t drink it)*, drops the d'
+[^d]: The affirmative of ol _(drink)_ and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D’</u>ól sé é _(He drank it)_, while the negative, Níor ól sé é _(He didn’t drink it)_, drops the d'
 [^1]: Imperfect/conditional already include lenition in the root verb
-[^unlenite]: The conjugations in the imperfect / conditional tense will lenite the initial consonant if lenitable, so when the question / negative question needs to eclipsis the verb, the lenition of the root verb must been removed. Bris (break), imperfect tense: <u>bh</u>risinn *(I would break)*. Imperfect tense in the form of question: An <u>mb</u>risfinn? *(Would I break?)*. Notice the removed lenition after the initial **h**.
+[^unlenite]: The conjugations in the imperfect / conditional tense will lenite the initial consonant if lenitable, so when the question / negative question needs to eclipsis the verb, the lenition of the root verb must been removed. Bris (break), imperfect tense: <u>bh</u>risinn _(I would break)_. Imperfect tense in the form of question: An <u>mb</u>risfinn? _(Would I break?)_. Notice the removed lenition after the initial **h**.
