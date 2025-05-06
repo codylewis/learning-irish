@@ -27,6 +27,12 @@ title:  "Verb Particles By Tense"
 |-|-|-|-|
 | Negative | Ná | h- prefix before vowels | Ná <u>h</u>ól é *(Don't drink it) |
 
+### Sources
+
+- [Conjugating Regular Irish Verb](https://gaeilge.org/verbs/Verbs.pdf)
+- [*Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition*
+by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
+
 ---
 
 [^d]: The affirmative of ol *(drink)* and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D’</u>ól sé é *(He drank it)*, while the negative, Níor ól sé é *(He didn’t drink it)*, drops the d'

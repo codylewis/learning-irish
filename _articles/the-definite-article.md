@@ -31,3 +31,8 @@ Overview of the definite articles and how it affects nouns in Irish, depending o
 |-|-|-|-|
 | Begin with a consonant | meánscoil *(secondary school)* | | na meánscoileanna |
 | Begin with a vowel | ábhar *(subject)* | h-prothesis | na <u>há</u>bhair |
+
+### Source
+
+- [*Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition*
+by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
