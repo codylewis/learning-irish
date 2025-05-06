@@ -17,7 +17,7 @@ title:  "Verb Particles By Tense"
 
 | | Particle | Change(s) | Example(s) | Notes |
 |-|-|-|-|
-| Negative | Ní | lenition[^1] | Ní <u>th</u>uigeann sé *(He doesn't understand)* | <br>Verbs starting with d' drop this |
+| Negative | Ní | lenition[^1] | Ní <u>th</u>uigeann sé *(He doesn't understand)* | Verbs starting with d' drop this |
 | Question | An | eclipsis | An <u>mb</u>uafaidh sí an rás? *(Will she win the race?)* | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 | Negative Question | Nach | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? *(Aren't you working?)* | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 
