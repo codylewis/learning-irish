@@ -33,6 +33,6 @@ title: "Verb Particles By Tense"
 
 ---
 
-[^d]: The affirmative of ol _(drink)_ and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D’</u>ól sé é _(He drank it)_, while the negative, Níor ól sé é _(He didn’t drink it)_, drops the d'
+[^d]: The affirmative of ol _(drink)_ and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D'</u>ól sé é _(He drank it)_, while the negative, Níor ól sé é _(He didn't drink it)_, drops the d'
 [^1]: Imperfect/conditional already include lenition in the root verb
 [^unlenite]: The conjugations in the imperfect / conditional tense will lenite the initial consonant if lenitable, so when the question / negative question needs to eclipsis the verb, the lenition of the root verb must been removed. Bris (break), imperfect tense: <u>bh</u>risinn _(I would break)_. Imperfect tense in the form of question: An <u>mb</u>risfinn? _(Would I break?)_. Notice the removed lenition after the initial **h**.
