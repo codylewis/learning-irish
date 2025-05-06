@@ -5,7 +5,7 @@ title:  "The Definite Article"
 
 Overview of the definite articles and how it affects nouns in Irish, depending on gender, number, and the initial letter of the word.
 
-## Feminine Singular Nouns
+## Baininscneach *(Feminine)* Singular Nouns
 
 | | Noun | Change (if any) | With Definite Article | Notes
 |-|-|-|
@@ -15,7 +15,7 @@ Overview of the definite articles and how it affects nouns in Irish, depending o
 | Begins with s | sráid *(street)* | t-prothesis | an <u>ts</u>ráid | t cannot be used before sc-, sf-, sm-, sp-, st- |
 | Begins with t | tine *(fire)* | | an tine |  |
 
-## Masculine Singular Nouns
+## Firinscneach *(Masculine)* Singular Nouns
 
 | | Noun | Change (if any) | With Definite Article 
 |-|-|-|
