@@ -3,6 +3,8 @@ layout: post
 title: "Verb Particles By Tense"
 ---
 
+The information below accounts for regular verbs only, as there as some exceptions for the of the irregular verbs.
+
 ## Past Tense
 
 |                   | Particle | Changes                                                                     | Examples                                                                                      |
@@ -27,11 +29,11 @@ title: "Verb Particles By Tense"
 
 ### Sources
 
-- [Conjugating Regular Irish Verb](https://gaeilge.org/verbs/Verbs.pdf)
+- [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 - [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
   by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
 
----
+### Footnotes
 
 [^d]: The affirmative of ol _(drink)_ and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D'</u>ól sé é _(He drank it)_, while the negative, Níor ól sé é _(He didn't drink it)_, drops the d'
 [^1]: Imperfect/conditional already include lenition in the root verb
