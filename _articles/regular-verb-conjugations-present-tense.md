@@ -17,16 +17,11 @@ title: "Regular Verb Conjugations (Present Tense)"
 
 ### First Conjugation Exceptions
 
-#### Category 1
+#### Category One
 
-Exceptions in Category 1 have both:
+{% include spelling-exception-category-one.md %}
 
-- A long vowel (a vowel with a fada)
-- Ends with -igh
-
-With these verbs the -igh is dropped before adding the same endings as first conjugation slender endings.
-
-|                                                   | Category 1 Endings         |
+|                                                   | Category One Endings       |
 | ------------------------------------------------- | -------------------------- |
 | **Root Verb**                                     | lé<u>igh</u> _(read)_      |
 | **1<sup>st</sup> Person Singular**                | lé<u>im</u>                |
@@ -34,16 +29,13 @@ With these verbs the -igh is dropped before adding the same endings as first con
 | **1<sup>st</sup> Person Plural**                  | lé<u>imid</u>              |
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**   | lé<u>ann</u> sibh/siad     |
 
-#### Category 2
+#### Category Two
 
-Exceptions in Category 2 have both:
-
-- A long 'i' sound without a fada present to indicate it
-- Ends in -igh
+{% include spelling-exception-category-two.md %}
 
 With these verbs the -igh is dropped before adding the endings below. These endings are normally associated with second conjugation slender endings.
 
-|                                                   | Category 2 Endings          |
+|                                                   | Category Two Endings        |
 | ------------------------------------------------- | --------------------------- |
 | **Root Verb**                                     | su<u>igh</u> _(sit)_        |
 | **1<sup>st</sup> Person Singular**                | su<u>ím</u>                 |
