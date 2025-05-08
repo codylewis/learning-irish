@@ -34,7 +34,7 @@ Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 | ---------------------------------------------------------------- | ---------------------------------- | -------------------------------- |
 | **Root Verb**                                                    | ceannaigh _(buy)_                  | éirigh _(rise)_                  |
 | **1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> Person Singular** | <u>ch</u>eannaigh mé/tú/sé/sí/siad | <u>d'é</u>irigh mé/tú/sé/sí/siad |
-| **1<sup>st</sup> Person Plural**                                 | <u>ch</u>eann<u>aíomar</u>         | <u>d'é</u>ir<u>iomar</u>         |
+| **1<sup>st</sup> Person Plural**                                 | <u>ch</u>eann<u>aíomar</u>         | <u>d'é</u>ir<u>íomar</u>         |
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>ch</u>eannaigh sibh/siad        | <u>d'é</u>irigh sibh/siad        |
 
 {% include root-inflection-syncope.md %}
