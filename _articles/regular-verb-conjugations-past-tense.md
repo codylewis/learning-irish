@@ -9,7 +9,7 @@ title: "Regular Verb Conjugations (Past Tense)"
 
 > 1. Start with the spelling of the root/command form
 > 1. Lenite the initial consonant if lenitable
-> 1. Add d' before those verbs[^d] starting with vowels or fh (which is silent anyway)
+> 1. Add **d'** before those verbs[^d] starting with vowels or fh (which is silent anyway)
 > 1. Use the separate pronoun forms, except in the first person plural
 
 Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
@@ -23,9 +23,9 @@ Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 
 ## Second Conjugation
 
-> 1. Start with the spelling of the root/command form;
-> 1. Lenite the initial consonant if lenitable;
-> 1. Add d' before those verbs[^d] starting with vowels or fh (which is silent anyway)
+> 1. Start with the spelling of the root/command form
+> 1. Lenite the initial consonant if lenitable
+> 1. Add **d'** before those verbs[^d] starting with vowels or fh (which is silent anyway)
 > 1. Use the separate pronoun forms, except in the first person plural
 
 Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
@@ -55,4 +55,4 @@ Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 
 ### Footnotes
 
-[^d]: When adding [verbal particles](../verb-particles-by-tense/) d' is omitted
+[^d]: When adding [verbal particles](../verb-particles-by-tense/) **d'** is omitted
