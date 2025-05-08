@@ -39,11 +39,11 @@ Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 
 {% include root-inflection-syncope.md %}
 
-|                                                                  | Slender (-íomar) + Syncopation      |
+|                                                                  | Broad (-aíomar) + Syncopation       |
 | ---------------------------------------------------------------- | ----------------------------------- |
 | **Root Verb**                                                    | freagair _(answer)_                 |
 | **1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> Person Singular** | <u>d'fh</u>reagair mé/tú/sé/sí/siad |
-| **1<sup>st</sup> Person Plural**                                 | <u>d'fh</u>reagra<u>íomar</u>\*     |
+| **1<sup>st</sup> Person Plural**                                 | <u>d'fh</u>reagr<u>aíomar</u>\*     |
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>d'fh</u>reagair sibh/siad        |
 
 \*Generally, within the second conjugation for past tense, only the 1<sup>st</sup> person plural in affected by syncopation.
