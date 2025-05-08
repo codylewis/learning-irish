@@ -17,15 +17,15 @@ The information below accounts for regular verbs only, as there as some exceptio
 
 |                   | Particle | Change(s)                    | Example(s)                                                | Notes                                                                                                              |
 | ----------------- | -------- | ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Negative          | Ní       | lenition[^lenition-gotcha]   | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with d' drop this                                                                                   |
+| Negative          | Ní       | lenition[^lenition-gotcha]   | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with **d'** drop this[^d]                                                                           |
 | Question          | An       | eclipsis                     | An <u>mb</u>uafaidh sí an rás? _(Will she win the race?)_ | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 | Negative Question | Nach     | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? _(Aren't you working?)_   | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 
 ## Imperative (Commands)
 
-|          | Particle | Change                  | Example                            |
-| -------- | -------- | ----------------------- | ---------------------------------- |
-| Negative | Ná       | h- prefix before vowels | Ná <u>h</u>ól é \*(Don't drink it) |
+|          | Particle | Change           | Example                            |
+| -------- | -------- | ---------------- | ---------------------------------- |
+| Negative | Ná       | h- before vowels | Ná <u>h</u>ól é _(Don't drink it)_ |
 
 ### Sources
 
