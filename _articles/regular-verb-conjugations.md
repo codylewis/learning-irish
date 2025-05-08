@@ -7,7 +7,7 @@ title: "Regular Verb Conjugations (Present Tense)"
 
 ## First Conjugation
 
-|                                                   | Endings (Broad) | Broad Endings               | Endings (Slender) | Slender Endings               |
+|                                                   | Endings (Broad) | Broad Example               | Endings (Slender) | Slender Example               |
 | ------------------------------------------------- | --------------- | --------------------------- | ----------------- | ----------------------------- |
 | **Root Verb**                                     |                 | dún _(close)_               |                   | rith _(run)_                  |
 | **1<sup>st</sup> Person Singular**                | -aim            | dún<u>aim</u>               | -im               | rith<u>im</u>                 |
