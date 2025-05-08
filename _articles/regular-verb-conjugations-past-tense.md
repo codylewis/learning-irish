@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Regular Verb Conjugations (Past Tense)"
+---
+
+[See this article for more information on determining how a verb is either the first or second conjugation.](../regular-verb-conjugation-types)
+
+## First Conjugation
+
+> 1. Start with the spelling of the root/command form
+> 1. Lenite the initial consonant if lenitable
+> 1. Add d' before those verbs[^d] starting with vowels or fh (which is silent anyway)
+> 1. Use the separate pronoun forms, except in the first person plural
+
+Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
+
+|                                                                  | Broad (-amar)                | Slender (-eamar)               |
+| ---------------------------------------------------------------- | ---------------------------- | ------------------------------ |
+| **Root Verb**                                                    | dún _(close)_                | éist _(put)_                   |
+| **1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> Person Singular** | <u>dh</u>ún mé/tú/sé/sí/siad | <u>d'é</u>ist mé/tú/sé/sí/siad |
+| **1<sup>st</sup> Person Plural**                                 | <u>dh</u>ún<u>amar</u>       | <u>d'é</u>ist<u>eamar</u>      |
+| **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>dh</u>ún sibh/siad        | <u>d'é</u>ist sibh/siad        |
+
+## Second Conjugation
+
+> 1. Start with the spelling of the root/command form;
+> 1. Lenite the initial consonant if lenitable;
+> 1. Add d' before those verbs[^d] starting with vowels or fh (which is silent anyway)
+> 1. Use the separate pronoun forms, except in the first person plural
+
+Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
+
+|                                                                  | Broad (-aíomar)                    | Slender (-íomar)                 |
+| ---------------------------------------------------------------- | ---------------------------------- | -------------------------------- |
+| **Root Verb**                                                    | ceannaigh _(buy)_                  | éirigh _(rise)_                  |
+| **1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> Person Singular** | <u>ch</u>eannaigh mé/tú/sé/sí/siad | <u>d'é</u>irigh mé/tú/sé/sí/siad |
+| **1<sup>st</sup> Person Plural**                                 | <u>ch</u>eann<u>aíomar</u>         | <u>d'é</u>ir<u>iomar</u>         |
+| **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>ch</u>eannaigh sibh/siad        | <u>d'é</u>irigh sibh/siad        |
+
+{% include root-inflection-syncope.md %}
+
+|                                                                  | Slender (-íomar) + Syncopation      |
+| ---------------------------------------------------------------- | ----------------------------------- |
+| **Root Verb**                                                    | freagair _(answer)_                 |
+| **1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> Person Singular** | <u>d'fh</u>reagair mé/tú/sé/sí/siad |
+| **1<sup>st</sup> Person Plural**                                 | <u>d'fh</u>reagra<u>íomar</u>\*     |
+| **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>d'fh</u>reagair sibh/siad        |
+
+\*Generally, within the second conjugation for past tense, only the 1<sup>st</sup> person plural in affected by syncopation.
+
+### Footnotes
+
+[^d]: When adding [verbal particles](../verb-particles-by-tense/) d' is omitted

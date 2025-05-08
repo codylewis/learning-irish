@@ -17,7 +17,7 @@ The information below accounts for regular verbs only, as there as some exceptio
 
 |                   | Particle | Change(s)                    | Example(s)                                                | Notes                                                                                                              |
 | ----------------- | -------- | ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Negative          | Ní       | lenition[^1]                 | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with d' drop this                                                                                   |
+| Negative          | Ní       | lenition[^lenition-gotcha]   | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with d' drop this                                                                                   |
 | Question          | An       | eclipsis                     | An <u>mb</u>uafaidh sí an rás? _(Will she win the race?)_ | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 | Negative Question | Nach     | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? _(Aren't you working?)_   | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 
@@ -36,5 +36,5 @@ The information below accounts for regular verbs only, as there as some exceptio
 ### Footnotes
 
 [^d]: The affirmative of ol _(drink)_ and other verbs starting with a vowel have a **d'** before the verb in the past tense, <u>D'</u>ól sé é _(He drank it)_, while the negative, Níor ól sé é _(He didn't drink it)_, drops the d'
-[^1]: Imperfect/conditional already include lenition in the root verb
+[^lenition-gotcha]: Imperfect/conditional already include lenition in the root verb
 [^unlenite]: The conjugations in the imperfect / conditional tense will lenite the initial consonant if lenitable, so when the question / negative question needs to eclipsis the verb, the lenition of the root verb must been removed. Bris (break), imperfect tense: <u>bh</u>risinn _(I would break)_. Imperfect tense in the form of question: An <u>mb</u>risfinn? _(Would I break?)_. Notice the removed lenition after the initial **h**.
