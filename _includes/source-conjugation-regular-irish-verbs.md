@@ -1,0 +1,1 @@
+- [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)

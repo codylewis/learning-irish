@@ -17,5 +17,4 @@ A possessive adjective is used with a noun to indicate possession, ownership, or
 
 ### Source
 
-- [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
-  by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
+{% include source-irish-grammar.md %}

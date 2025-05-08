@@ -3,7 +3,7 @@ layout: post
 title: "Regular Verb Conjugations (Past Tense)"
 ---
 
-[See this article for more information on determining how a verb is either the first or second conjugation.](../regular-verb-conjugation-types)
+{% include link-to-regular-verb-conjugation-types.md %}
 
 ## First Conjugation
 
@@ -47,6 +47,11 @@ Source: [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | <u>d'fh</u>reagair sibh/siad        |
 
 \*Generally, within the second conjugation for past tense, only the 1<sup>st</sup> person plural in affected by syncopation.
+
+### Sources
+
+{% include source-irish-grammar.md %}
+{% include source-conjugation-regular-irish-verbs.md %}
 
 ### Footnotes
 

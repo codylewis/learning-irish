@@ -1,0 +1,2 @@
+# Prevent Prettier from inserting an empty line an the end of the file which would add extra space between source list items
+_includes/source-*.md

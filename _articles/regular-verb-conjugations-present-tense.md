@@ -3,7 +3,7 @@ layout: post
 title: "Regular Verb Conjugations (Present Tense)"
 ---
 
-[See this article for more information on determining how a verb is either the first or second conjugation.](../regular-verb-conjugation-types)
+{% include link-to-regular-verb-conjugation-types.md %}
 
 ## First Conjugation
 
@@ -66,8 +66,5 @@ With these verbs the -igh is dropped before adding the endings below. These endi
 
 ### Sources
 
-- [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
-  by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
-- [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
-
-### Footnotes
+{% include source-irish-grammar.md %}
+{% include source-conjugation-regular-irish-verbs.md %}

@@ -29,9 +29,8 @@ The information below accounts for regular verbs only, as there as some exceptio
 
 ### Sources
 
-- [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
-- [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
-  by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
+{% include source-irish-grammar.md %}
+{% include source-conjugation-regular-irish-verbs.md %}
 
 ### Footnotes
 

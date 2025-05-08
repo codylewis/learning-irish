@@ -21,6 +21,5 @@ title: "Regular Verb Conjugation Types"
 
 ### Sources
 
-- [_Irish Grammar You Really Need to Know: Teach Yourself 2nd Edition_
-  by Éamonn Ó'Dónaill](https://www.amazon.com/Irish-Grammar-Really-Need-Know-ebook/dp/B00GU2MPVE)
-- [Conjugating Regular Irish Verbs](https://gaeilge.org/verbs/Verbs.pdf)
+{% include source-irish-grammar.md %}
+{% include source-conjugation-regular-irish-verbs.md %}
