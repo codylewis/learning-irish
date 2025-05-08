@@ -7,19 +7,19 @@ The information below accounts for regular verbs only, as there as some exceptio
 
 ## Past Tense
 
-|                   | Particle | Changes                                                                     | Examples                                                                                      |
-| ----------------- | -------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Negative          | Níor     | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Níor <u>bh</u>uail tú léi? _(You didn't meet her)_, Níor ól sí é? _(She didn't drink it)_     |
-| Question          | Ar       | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Ar <u>bh</u>uail tú léi? _(Did you meet her?)_, Ar ól sí é? _(Did he drink it?)_              |
-| Negative Question | Nár      | Lenition for consonants / verbs starting with **d'** drop this particle[^d] | Nár <u>bh</u>uail sí liom? _(Didn't she meet with me?)_, Nár ól sí é? _(Didn't he drink it?)_ |
+|                   | Particle | Changes  | Examples                                                                                      | Notes                                             |
+| ----------------- | -------- | -------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Negative          | Níor     | lenition | Níor <u>bh</u>uail tú léi? _(You didn't meet her)_, Níor ól sí é? _(She didn't drink it)_     | verbs starting with **d'** drop this particle[^d] |
+| Question          | Ar       | lenition | Ar <u>bh</u>uail tú léi? _(Did you meet her?)_, Ar ól sí é? _(Did he drink it?)_              | verbs starting with **d'** drop this particle[^d] |
+| Negative Question | Nár      | lenition | Nár <u>bh</u>uail sí liom? _(Didn't she meet with me?)_, Nár ól sí é? _(Didn't he drink it?)_ | verbs starting with **d'** drop this particle[^d] |
 
 ## Present, Future, Imperfect, and Conditional Tenses
 
 |                   | Particle | Change(s)                    | Example(s)                                                | Notes                                                                                                              |
 | ----------------- | -------- | ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Negative          | Ní       | lenition[^lenition-gotcha]   | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | Verbs starting with **d'** drop this[^d]                                                                           |
-| Question          | An       | eclipsis                     | An <u>mb</u>uafaidh sí an rás? _(Will she win the race?)_ | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
-| Negative Question | Nach     | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? _(Aren't you working?)_   | Verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
+| Negative          | Ní       | lenition[^lenition-gotcha]   | Ní <u>th</u>uigeann sé _(He doesn't understand)_          | verbs starting with **d'** drop this[^d]                                                                           |
+| Question          | An       | eclipsis                     | An <u>mb</u>uafaidh sí an rás? _(Will she win the race?)_ | verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
+| Negative Question | Nach     | eclipsis or n- before vowels | Nach <u>bhf</u>uil tú ag obair? _(Aren't you working?)_   | verbs must be un-lenited in imperfect / conditional[^unlenite] / verbs starting with **d'** drop this particle[^d] |
 
 ## Imperative (Commands)
 
