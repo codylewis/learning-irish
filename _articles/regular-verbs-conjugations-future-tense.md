@@ -57,8 +57,6 @@ With these verbs the -igh is dropped before adding the endings below.
 | **1<sup>st</sup> Person Plural**                                 | -ífimid | su<u>ífimid</u>                 |
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**                  | -ífidh  | su<u>ífidh</u> sibh/siad        |
 
----
-
 ## Second Conjugation
 
 |                                                           | Endings (Broad) | Broad Example                   | Endings (Slender) | Slender Example                  |
