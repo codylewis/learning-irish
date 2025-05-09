@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Individual articles on the [home page](/learning-irish/) have sources linked at the bottom of each article in addition to resources that are found here.
+Individual articles on the [home page](./index.md) have sources linked at the bottom of each article in addition to resources that are found here.
 
 ## General
 
