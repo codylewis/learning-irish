@@ -15,13 +15,15 @@ title: "Regular Verb Conjugations (Present Tense)"
 | **1<sup>st</sup> Person Plural**                  | -aimid          | dún<u>aimid</u>             | -imid             | rith<u>imid</u>               |
 | **2<sup>nd</sup>/3<sup>rd</sup> Person Plural**   | -ann            | dún<u>ann</u> sibh/siad     | -eann             | rith<u>eann</u> sibh/siad     |
 
-### First Conjugation Exceptions
+### First Conjugation Spelling Exceptions
 
 #### Category One
 
 {% include spelling-exception-category-one.md %}
 
-|                                                   | Category One Endings       |
+With these verbs the -igh is dropped before adding the same endings as first conjugation slender endings.
+
+|                                                   | Category One Example       |
 | ------------------------------------------------- | -------------------------- |
 | **Root Verb**                                     | lé<u>igh</u> _(read)_      |
 | **1<sup>st</sup> Person Singular**                | lé<u>im</u>                |
@@ -35,7 +37,7 @@ title: "Regular Verb Conjugations (Present Tense)"
 
 With these verbs the -igh is dropped before adding the endings below. These endings are normally associated with second conjugation slender endings.
 
-|                                                   | Category Two Endings        |
+|                                                   | Category Two Example        |
 | ------------------------------------------------- | --------------------------- |
 | **Root Verb**                                     | su<u>igh</u> _(sit)_        |
 | **1<sup>st</sup> Person Singular**                | su<u>ím</u>                 |
