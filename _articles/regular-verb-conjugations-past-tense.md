@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Verb Conjugations (Past Tense)"
+title: "📜 Regular Verb Conjugations (Past Tense)"
 ---
 
 {% include link-to-regular-verb-conjugation-types.md %}

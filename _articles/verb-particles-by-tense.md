@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verb Particles By Tense"
+title: "🪄 Verb Particles By Tense"
 ---
 
 The information below accounts for regular verbs only, as there as some exceptions for the of the irregular verbs.

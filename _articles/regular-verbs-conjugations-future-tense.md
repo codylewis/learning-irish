@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Verb Conjugations (Future Tense)"
+title: "🔮 Regular Verb Conjugations (Future Tense)"
 ---
 
 {% include link-to-regular-verb-conjugation-types.md %}

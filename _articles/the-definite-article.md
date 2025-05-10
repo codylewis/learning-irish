@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Definite Article"
+title: "📕 The Definite Article"
 ---
 
 Overview of the definite articles and how it affects nouns in Irish, depending on gender, number, and the initial letter of the word.

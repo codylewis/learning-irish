@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Possessive Adjectives"
+title: "🔑 Possessive Adjectives"
 ---
 
 A possessive adjective is used with a noun to indicate possession, ownership, or close relationship. Below is a table showing the forms used in Irish.

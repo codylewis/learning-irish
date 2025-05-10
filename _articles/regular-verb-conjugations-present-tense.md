@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Verb Conjugations (Present Tense)"
+title: "⏱️ Regular Verb Conjugations (Present Tense)"
 ---
 
 {% include link-to-regular-verb-conjugation-types.md %}

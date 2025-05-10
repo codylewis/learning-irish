@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Verb Conjugation Types"
+title: "🧩 Regular Verb Conjugation Types"
 ---
 
 ## First Conjugation
