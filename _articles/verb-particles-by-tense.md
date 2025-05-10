@@ -9,7 +9,7 @@ The information below accounts for regular verbs only, as there as some exceptio
 
 |                   | Particle | Changes  | Examples                                                                                      | Notes                                             |
 | ----------------- | -------- | -------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Negative          | Níor     | lenition | Níor <u>bh</u>uail tú léi? _(You didn't meet her)_, Níor ól sí é? _(She didn't drink it)_     | verbs starting with **d'** drop this particle[^d] |
+| Negative          | Níor     | lenition | Níor <u>bh</u>uail tú léi _(You didn't meet her)_, Níor ól sí é _(She didn't drink it)_       | verbs starting with **d'** drop this particle[^d] |
 | Question          | Ar       | lenition | Ar <u>bh</u>uail tú léi? _(Did you meet her?)_, Ar ól sí é? _(Did he drink it?)_              | verbs starting with **d'** drop this particle[^d] |
 | Negative Question | Nár      | lenition | Nár <u>bh</u>uail sí liom? _(Didn't she meet with me?)_, Nár ól sí é? _(Didn't he drink it?)_ | verbs starting with **d'** drop this particle[^d] |
 
