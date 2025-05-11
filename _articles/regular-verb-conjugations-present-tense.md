@@ -21,7 +21,7 @@ title: "Regular Verb Conjugations (Present Tense)"
 
 {% include spelling-exception-category-one.md %}
 
-With these verbs the -igh is dropped before adding the same endings as first conjugation slender endings.
+With these verbs the -igh is dropped before adding the endings below.
 
 |                                                   | Category One Example       |
 | ------------------------------------------------- | -------------------------- |
